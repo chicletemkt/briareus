@@ -10,11 +10,11 @@ instead of spending a lot of time writing boring HTML tags and attributes.
 
 # What is this name anyways?
 
-Briareus is the name of a (mithological greek
-monster)[https://en.wikipedia.org/wiki/Hecatoncheires], with three hundred
+Briareus is the name of a [mithological greek
+monster](https://en.wikipedia.org/wiki/Hecatoncheires), with three hundred
 hands. We have choosed this name for the project since it stands unique and,
 also, have the idea of being an extra "hand" helping on your projects.
 
 # License
 
-This project is presented under the (MIT License)[LICENSE].
+This project is presented under the [MIT License](LICENSE).
